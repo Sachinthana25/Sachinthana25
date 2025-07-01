@@ -18,15 +18,16 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 ###
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+Developers+!;Undergraduate+Student+at+SLIIT;Passionate+about+QA+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=db52ae&center=true&vCenter=true&width=435&lines=Hello!+Developers+!;Undergraduate+Student+at+SLIIT;Passionate+about+QA+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
 </p>
 
+<img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 
 ---
 
