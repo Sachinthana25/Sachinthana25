@@ -102,6 +102,7 @@ Skills & Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
 </p>
+
 ---
 
 ## 📈 GitHub Stats
@@ -113,7 +114,7 @@ Skills & Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e
 </p>
 
 ---
----
+
 <div align="center">
 <h2 align="centre">Visitor Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{avinIndrasoma}/count.svg" /></p> 
